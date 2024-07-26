@@ -48,5 +48,7 @@ I will not translate this solution to other languages, I think that it's simple 
 ## Analysis
 
 **Problem difficulty**: easy
+
 **Problem type**: string
+
 **Time complexity**: O(1)

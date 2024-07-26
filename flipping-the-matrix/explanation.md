@@ -1,5 +1,7 @@
 # Flipping the matrix
 
+Here's a [link](https://www.hackerrank.com/challenges/flipping-the-matrix/problem) to this challenge.
+
 ## Essence of the problem
 
 The problem requires us to maximize the sum of the upper-left quadrant of a given 2n x 2n matrix. We can flip any row or column of the matrix.
@@ -22,5 +24,7 @@ The problem requires us to maximize the sum of the upper-left quadrant of a give
 ## Analysis
 
 **Problem difficulty**: medium
+
 **Problem type**: maths
+
 **Time complexity**: O(n^2)

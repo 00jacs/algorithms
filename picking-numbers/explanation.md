@@ -39,6 +39,9 @@ result starting from 5, array of (5, 6): 3
 ```
 
 ## Analysis
+
 **Problem difficulty**: easy
+
 **Problem type**: array
+
 **Time complexity**: O(n)

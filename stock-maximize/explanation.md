@@ -1,7 +1,9 @@
 # Stock Maximize
+
 Here's a [link](https://www.hackerrank.com/challenges/stockmax/problem) to this challenge.
 
 ## Solution
+
 It seems like a relatively easy dp problem.
 
 The solution is based on the following observations:
@@ -20,6 +22,9 @@ The solution is as follows:
 A single loop solves this problem.
 
 ## Analysis
+
 **Problem difficulty**: easy/medium
+
 **Problem type**: dynamic programming
+
 **Time complexity**: O(n)

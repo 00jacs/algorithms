@@ -1,4 +1,4 @@
-# Hackerrank 💻
+# Hackerrank
 
 This is a collection of problems & solutions from Hackerrank that I will update from time to time based on the problems I solve.
 
