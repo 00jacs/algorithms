@@ -18,4 +18,4 @@ What we do is the following:
 
 **Problem type**: implementation
 
-**Time complexity**: O(n)
+**Time complexity**: O(n^2)
