@@ -1,4 +1,4 @@
-# Insertion sort
+# Insertion sort pt. 1
 
 Here's a [link](https://www.hackerrank.com/challenges/insertionsort1/problem) to this challenge.
 
