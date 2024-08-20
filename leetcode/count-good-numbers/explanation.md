@@ -1,6 +1,6 @@
 # Count good numbers
 
-Here's a [link](https://www.hackerrank.com/challenges/counting-valleys/problem) to this challenge.
+Here's a [link](https://leetcode.com/problems/count-good-numbers/description/) to this challenge.
 
 ## Problem
 
