@@ -15,10 +15,12 @@ function reverseBetween(
   left: number,
   right: number,
 ): ListNode | null {
+  // no need to reverse if there is only one node (or 0)
   if (!head || !head.next) {
     return head;
   }
 
+  // let's find the first node to be reversed
   let before: ListNode | null = null;
   let leftNode: ListNode | null = head;
 
@@ -32,6 +34,7 @@ function reverseBetween(
 
   // console.log(`before val: ${before.val}; leftNode val: ${leftNode.val};`);
 
+  // now we're moving to a classic reverse linked list problem
   let prev: ListNode | null = leftNode;
   let curr: ListNode | null = leftNode.next;
 
@@ -44,6 +47,9 @@ function reverseBetween(
 
   // console.log(`After iteration: ${curr.val}, prev: ${prev.val};`);
 
+  // after reversing, update the link from the first node before
+  // the "left" and the first node after "right"
+  // to correctly point to our reverse (left, right) part of the LL
   if (!before) {
     head = prev;
   } else {
