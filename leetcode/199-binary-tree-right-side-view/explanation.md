@@ -30,3 +30,7 @@ Here are the steps:
 **Problem type**: binary tree, BFS
 
 **Time complexity**: O(n)
+
+## Similar problems
+
+- [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)
